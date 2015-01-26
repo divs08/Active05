@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="comment_comment" id="2" x="1" y="1">
-    <field name="TEXT">Active5 - Object Avoidance</field>
+    <field name="TEXT">Active05 - Object Avoidance</field>
     <next>
       <block type="controls_whileUntil" id="9" inline="false">
         <field name="MODE">UNTIL</field>
