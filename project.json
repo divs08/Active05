@@ -1,10 +1,10 @@
 {
-    "name": "Active5",
+    "name": "Active05",
     "version": "1.0.0",
     "manifest_version": 1,
     "project_type": "application",
     "executable_type": "scratch",
-    "executable": "Active5.xml",
+    "executable": "Active05.xml",
     "author": "mykepredko",
     "minimum_firmware_version": 42
 }
